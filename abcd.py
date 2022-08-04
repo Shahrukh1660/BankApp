@@ -1,1 +1,1 @@
-print("Namaste v2")
+print("Namaste")
